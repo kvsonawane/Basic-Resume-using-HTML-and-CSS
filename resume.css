@@ -1,0 +1,83 @@
+ body {
+            font-family: sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: #fff;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+        }
+
+        h1, h2, h3 {
+            text-align: center;
+            margin-top: 0;
+        }
+
+        h1 {
+            font-size: 3em;
+            margin-bottom: 10px;
+            letter-spacing: 20px;
+        }
+
+        h2 {
+            font-size: 20px;
+            margin-bottom: 10px;
+        }
+
+        h3 {
+            font-size: 1.5em;
+            margin-bottom: 10px;
+
+        }
+
+        .section {
+            margin-bottom: 20px;
+        }
+
+        .contact-info {
+            display: flex;
+            align-items: center;
+            margin-bottom: 10px;
+        }
+
+        #gmail {
+            height: 20px;
+            width: 20px;
+        }
+
+        #git {
+            height: 20px;
+            width: 20px;
+        }
+
+        #linked {
+            height: 20px;
+            width: 20px;
+        }
+
+        .contact-icon {
+            margin-right: 10px;
+        }
+
+        .contact-link {
+            color: #007bff;
+            text-decoration: none;
+        }
+
+        .contact-link:hover {
+            text-decoration: underline;
+        }
+
+        ul {
+            
+            padding: 15px;
+        }
+
+        li {
+            margin-bottom: 5px;
+        }
